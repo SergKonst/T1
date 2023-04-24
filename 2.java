@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Введите выражение (например 1 + 2 или V * III):");
         Vvod.xxx = scanner.nextLine();
-        System.out.println(Vvod.xxx);
+       
         calc();
     }
 
